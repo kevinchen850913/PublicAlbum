@@ -1,0 +1,239 @@
+[
+  {
+    "uniqueNumber": "0",
+    "modelName": "",
+    "bikeID": "",
+    "boatID": "",
+    "asifw": "",
+    "vcufw": "",
+    "asiProfile": "",
+    "vcuParameter": {},
+    "tags": [],
+    "message": ""
+  },
+  {
+    "uniqueNumber": "1",
+    "modelName": "EE Example",
+    "bikeID": "X10311390001",
+    "boatID": "",
+    "asifw": "90-000315 BAC_Application_6023.ehx",
+    "vcufw": "S32K144_FreeRTOS_v10_A7U1.srec",
+    "asiProfile": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
+    "vcuParameter": {
+      "Flash Default": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json",
+      "Flash A": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json",
+      "Flash B": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json",
+      "Flash C": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json"
+    },
+    "tags": [
+      "VCU3"
+    ],
+    "message": "2024/8/6 The file found by google drive ,not tested."
+  },
+  {
+    "uniqueNumber": "2",
+    "modelName": "EMC_TEST",
+    "bikeID": "",
+    "boatID": "",
+    "asifw": "90-000315 BAC_Application_6023.ehx",
+    "vcufw": "S32K144_FreeRTOS_v10_A811_EMC.srec",
+    "dcufw": "periph_klever@2024-03-10 (Type approval ver)(base on 6CCA).bin",
+    "asiProfile": "KMI_2024_0401_CRCprofile_Date_855V6C8M8D1100C10S4625WD685A75T60s120PI36VL.xml",
+    "vcuParameter": {
+      "Flash Default":"",
+      "Flash A": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.xlsx",
+      "Flash B":"",
+      "Flash C":""
+    },
+    "tags": [],
+    "message": "2024/8/8 VCU3 EMC test version"
+  },
+  {
+    "uniqueNumber": "3",
+    "modelName": "CHC_TEST",
+    "bikeID": "X100N249T063",
+    "boatID": "27BBA249T063",
+    "asifw": "90-000315 BAC_Application_6023.ehx",
+    "vcufw": "S32K144_FreeRTOS_v10_AA44.srec",
+    "dcufw": "periph_klever@2024-07-31 (ver 6CCE).bin",
+    "asiProfile": "KMI_2024_0401_CRCprofile_Date_855V6C8M8D1100C10S4625WD685A75T60s120PI36VL.xml",
+    "vcuParameter": {
+      "Flash Default": "",
+      "Flash A": "VCU3_Default_parameters_Table_20241001_CHC_1vs4.xlsx",
+      "Flash B": "",
+      "Flash C": ""
+      },
+    "tags": ["VCU3 CHC Lab. 2024-10-08 test plan_01"],
+    "message": "2024/10/8 VCU3 CHC test version"
+  },
+  {
+    "uniqueNumber": "4",
+    "modelName": "Biactron_V3D2C",
+    "bikeID": "xxxRHKX12M15E10010123456",
+    "boatID": "27BBA249T002",
+    "asifw": "90-000315 BAC_Application_6023.ehx",
+    "vcufw": "S32K144_FreeRTOS_v10_A131.srec",
+    "asiProfile": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
+    "vcuParameter": {
+      "Flash Default": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json",
+      "Flash A": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json",
+      "Flash B": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json",
+      "Flash C": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json"
+    },
+    "tags": [
+      "VCU3"
+    ],
+    "message": "bug fixed: dump log point recording timing"
+  },
+  {
+    "uniqueNumber": "5",
+    "modelName": "Biactron_V3_2023",
+    "bikeID": "X100N249T003",
+    "boatID": "27BBA249T003",
+    "asifw": "90-000315 BAC_Application_6023.ehx",
+    "vcufw": "S32K144_FreeRTOS_v10_B091_merge_2023.srec",
+    "asiProfile": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
+    "vcuParameter": {
+      "Flash Default": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json",
+      "Flash A": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json",
+      "Flash B": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json",
+      "Flash C": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json"
+    },
+    "tags": [
+      "VCU3"
+    ],
+    "message": "old version for test FW updata"
+  },
+  {
+    "uniqueNumber": "6",
+    "modelName": "Biactron_TA_Energy",
+    "bikeID": "X100N249T0xx",
+    "boatID": "27BBA249T0xx",
+    "asifw": "90-000315 BAC_Application_6023.ehx",
+    "vcufw": "S32K144_FreeRTOS_v10_AAT1.srec",
+    "dcufw": "periph_klever@2023-04-07-1 (official release ver 6CCB ie 6CC6).bin",
+    "asiProfile": "KMI_2024_1021_CRCprofile_Date_855V6C8M8D1100C10S4625WD685A75T60s120PI36VL.xml",
+    "vcuParameter": {
+      "Flash A": "VCU3_Default_parameters_Table_20241024_adjustPlan.xlsx"
+    },
+    "tags": [
+      "Biactron VCU3"
+    ],
+    "message": "TA energy consumption"
+  },
+  {
+    "uniqueNumber": "7",
+    "modelName": "Biactron3_DVT",
+    "asifw": "90-000315 BAC_Application_6023.ehx",
+    "vcufw": "S32K144_FreeRTOS_v10_AB11.srec",
+    "dcufw": "periph_klever@2023-04-07-1 (official release ver 6CCB ie 6CC6).bin",
+    "asiProfile": "KMI_2024_1021_CRCprofile_Date_855V6C8M8D1100C10S4625WD685A75T60s120PI36VL.xml",
+    "vcuParameter": {
+    "Flash Default": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json",
+      "Flash A": "VCU3_Default_parameters_Table_20241024_adjustPlan.json"
+    },
+    "tags": [
+      "Biactron VCU3"
+    ],
+    "message": "Biactron3 DVT sample, release for QA test"
+  },
+  {
+    "uniqueNumber": "8",
+    "modelName": "Biactron_TA (CHC Lab.)",
+    "vcufw": "S32K144_FreeRTOS_v10_ABB1.srec",
+    "dcufw": "periph_klever@2023-04-07-1 (official release ver 6CCB ie 6CC6).bin",
+    "asiProfile": "KMI_2024_1107_CRCprofile_Date_855V6C8M8D1100C10S4625WD685A75T60s120PI36VL.xml",
+    "vcuParameter": {
+      "Flash A": "VCU3_Default_parameters_Table_20241024_adjustPlan.xlsx"
+    },
+    "tags": [
+      "Biactron VCU3"
+    ],
+    "message": "TA follow CHC Lab. max. speed "
+  },
+  {
+    "uniqueNumber": "9",
+    "modelName": "Biactron_TA (CHC Lab.) assit 1:4",
+    "vcufw": "S32K144_FreeRTOS_v10_ABB1_TA.srec",
+    "dcufw": "periph_klever@2023-04-07-1 (official release ver 6CCB ie 6CC6).bin",
+    "asiProfile": "KMI_2024_1113_CRCprofile_Date_855V6C8M8D1100C10S4625WD685A75T60s120PI36VL_TA.xml",
+    "vcuParameter": {
+      "Flash A": "VCU3_Default_parameters_Table_20241113_adjustPlan8_TA.xlsx"
+    },
+    "tags": [
+      "Biactron VCU3"
+    ],
+    "message": "TA follow CHC Lab. stop pedal pass, assit 1:4 ready for test "
+  },
+  {
+    "uniqueNumber": "10",
+    "modelName": "Biactron_TA (EMC)",
+    "vcufw": "S32K144_FreeRTOS_v10_ABM2_TA_EMC.srec",
+    "dcufw": "periph_klever@2024-03-10 (Type approval ver)(base on 6CCA).bin",
+    "asiProfile": "KMI_2024_1113_CRCprofile_Date_855V6C8M8D1100C10S4625WD685A75T60s120PI36VL_TA.xml",
+    "vcuParameter": {
+      "Flash A": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.xlsx"
+    },
+    "tags": [
+      "Biactron VCU3"
+    ],
+    "message": "TA for EMC test, EC28 & EC36 can be mask in EEPROM, ARTC DCU, 25/40/45km VCU parameter "
+  },
+  {
+    "uniqueNumber": "11",
+    "modelName": "Biactron3_DVT2",
+    "asifw": "90-000315 BAC_Application_6023.ehx",
+    "vcufw": "S32K144_FreeRTOS_v10_ACJ3.srec",
+    "dcufw": "periph_klever@2024-09-24 (DCU2.8_Ver.6CCF_new EC_write ZTR).bin",
+    "asiProfile": "KMI_2024_0401_CRCprofile_Date_855V6C8M8D1100C10S4625WD685A75T60s120PI36VL.xml",
+    "vcuParameter": {
+      "Flash A": "VCU3_Default_parameters_Table_20240726_A_newforchain_close_maxmin_torq.xlsx"
+    },
+    "tags": [
+      ""
+    ],
+    "message": "vcu fw updata test"
+  },
+  {
+    "uniqueNumber": "12",
+    "modelName": "K20_controller assy.",
+    "bikeID": "xxxRHKX12M15X10012345678",
+    "boatID": "27BBA249T000",
+    "asifw": "90-000315 BAC_Application_6023.ehx",
+    "vcufw": "S32K144_FreeRTOS_v10_A1D2.srec",
+    "dcufw": "periph_klever@2023-04-07-1 (official release ver 6CCB ie 6CC6).bin",
+    "asiProfile": "KMI_2024_0401_CRCprofile_Date_855V6C8M8D1100C10S4625WD685A75T60s120PI36VL.xml",
+    "vcuParameter": {
+      "Flash Default": "VCU3_Default_parameters_Table_20240726_A_Only_for_artc_test.json",
+      "Flash A": "VCU3_Default_parameters_Table_20250102_A_gainScale64.xlsx"
+    },
+    "tags": [
+      "BoatPL"
+    ],
+    "message": "2025/01/08 Tag BoatPL Test, K20(parts number head)controller assy."
+  },
+  {
+    "uniqueNumber": "13",
+    "modelName": "Biactron3_DVT2_TUNING_02",
+    "vcufw": "S32K144_FreeRTOS_v10_A131.srec",
+    "vcuParameter": {
+      "Flash A": "VCU3_Default_parameters_Table_20250102_A_gainScale64.xlsx"
+    },
+    "tags": [
+      ""
+    ],
+    "message": "vcu fw > A131, gain scale 64"
+  },
+  {
+    "uniqueNumber": "14",
+    "modelName": "ASI Pure",
+    "displayName": "XSPD8CH",
+    "bikeID": "X20123456789",
+    "boatID": "27BBA249T000",
+    "dcufw": "periph_klever@2025-01-08 (2.8A_Ver.A008_VIN VCUSN MODEL).bin",
+    "tags": [
+      "ASI Pure"
+    ],
+    "message": "2025/01/09 ASI Pure Test"
+  }
+]
